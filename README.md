@@ -43,3 +43,7 @@
 <div>
 <p align="justify">4. <b>Parâmetros Aleatórios:</b> Como os centros são sorteados, a viabilidade depende da distribuição inicial das antenas no plano.</p>
 </div>
+
+<p align="center">
+  <img src="https://github.com/rodfloripa/Otimizacao_de_Cobertura_Celular/blob/main/fig1.png">
+</p>
